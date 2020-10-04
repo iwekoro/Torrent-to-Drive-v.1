@@ -1,5 +1,3 @@
-**Best way to do cloud torrenting.**
-
 # Torrent To Google Drive Downloader
 Simple notebook to stream torrent files to Google Drive using Google Colab.
 
