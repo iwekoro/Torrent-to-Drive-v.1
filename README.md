@@ -44,5 +44,3 @@ The best available hardware is prioritized for users who use Colaboratory intera
 Please note that using Colaboratory for cryptocurrency mining is disallowed entirely, and may result in being banned from using Colab altogether.
 
 <sub>Source: https://research.google.com/colaboratory/faq.html</sub>
-
-### Maintained By : [Rishabh Singh](https://www.linkedin.com/in/singh-rishabh/)
